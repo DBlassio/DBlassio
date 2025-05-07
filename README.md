@@ -1,6 +1,6 @@
 👋 Hi there
 
-I’m **Diego Blassio**, a **Computational Neuroscientist**. Today I’m focused on applying AI to undesrtand how the brain works.
+I’m **Diego Blassio**, a **Computational Neuroscientist**. Currently I’m focused on applying AI to understand how the brain works.
 
 ------------------------------------------------------------------------------------------------------------
 
